@@ -2,7 +2,11 @@
 # [![Saif Jafri header](https://raw.githubusercontent.com/saif-jafri/saif-jafri/main/Web%20Developer%20%20DIgital%20Marketer%20%20Graphic%20designer.png)](https://instagram.com/saif_jafri_)
 
 
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
+## Transparent <a id="transparent">
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
 
 <!--
